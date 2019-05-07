@@ -1,0 +1,42 @@
+# Microsoft Developer Studio Generated Dependency File, included by CppSnap.mak
+
+.\CppSnap.cpp : \
+	".\CppSnap.h"\
+	".\CppSnapDlg.h"\
+	".\ideadisplay.h"\
+	".\ideafg.h"\
+	".\StdAfx.h"\
+	
+
+.\CppSnap.rc : \
+	".\res\CppSnap.ico"\
+	".\res\CppSnap.rc2"\
+	
+
+.\CppSnapDlg.cpp : \
+	".\CppSnap.h"\
+	".\CppSnapDlg.h"\
+	".\ideadisplay.h"\
+	".\ideafg.h"\
+	".\StdAfx.h"\
+	
+
+.\ideadisplay.cpp : \
+	".\ideadisplay.h"\
+	".\StdAfx.h"\
+	
+
+.\ideafg.cpp : \
+	".\ideafg.h"\
+	".\picture.h"\
+	".\StdAfx.h"\
+	
+
+.\picture.cpp : \
+	".\picture.h"\
+	".\StdAfx.h"\
+	
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	
